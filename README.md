@@ -22,6 +22,8 @@ Abitrary collection of quotes
 ----
 > Never do in a macro what can be done in a function - Robert Virding, 2016
 ----
+
+## Syntax and form
 > At one extreme we reach the 'point-free' style liked in Haskell, or the 'pipeful' style common in F#.
 There is a place for that sort of thing, but I'm not convinced that code meant for other people
 to read is that place. Think of introducing variables as an opportunity to make
