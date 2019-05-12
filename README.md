@@ -34,3 +34,9 @@ your code easier to understand, not as a cost. -- Richard O'Keefe, 2019
 > Ce qui est simple est toujours faux. Ce qui ne l’est pas est inutilisable. - Valéry, Paul (1942)
 
 	  "What is simple is always wrong. What is not is unusable."
+
+# Systems
+
+ > absolutum obsoletum -- Stafford., Beer (1972)
+  
+          "If it works it’s out of date".
