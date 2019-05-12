@@ -39,4 +39,4 @@ your code easier to understand, not as a cost. -- Richard O'Keefe, 2019
 
  > absolutum obsoletum -- Stafford., Beer (1972)
   
-          "If it works it’s out of date".
+      "If it works it’s out of date".
